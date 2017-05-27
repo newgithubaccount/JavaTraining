@@ -13,4 +13,10 @@ public class VariablesDemo {
     char ctr='c';
     String name="swapna";
 
+    public static void main(String[] rags)
+    {
+        VariablesDemo var=new VariablesDemo();
+        System.out.println(var.byteVar);
+    }
+
 }
