@@ -12,6 +12,7 @@ public class NewClass1{
     double doublevar=10.45791;
     char ctr='c';
     String name="swapna";
+int v=100;
 
     public static void main(String[] rags)
     {
